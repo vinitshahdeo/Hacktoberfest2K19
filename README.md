@@ -30,9 +30,13 @@ Join the open source celebration and leave a mark on the open source world!
 | [Quotter](https://github.com/vinitshahdeo/Quotter/)  | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | NodeJS  |
 | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | HTML, CSS, JS  |
 
+----
+
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
+
+-----
 
 ```js
 
