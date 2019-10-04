@@ -47,6 +47,7 @@ Join the open source celebration and leave a mark on the open source world!
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Quotter?style=social)](https://github.com/vinitshahdeo/Quotter/network) | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | NodeJS  |
 | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/SimpleBio?style=social)](https://github.com/vinitshahdeo/SimpleBio/network)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | HTML, CSS, JS  |
 | [HBD](https://github.com/vinitshahdeo/HBD/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/HBD?style=social)](https://github.com/vinitshahdeo/HBD/network)  | [Coder's Way of Wishing Happy Birthday](https://github.com/vinitshahdeo/HBD/issues/1)  | Any Language  |
+| [workTime](https://github.com/mmikaeleriksson/workTime/) | [![GitHub forks](https://img.shields.io/github/forks/mmikaeleriksson/workTime?style=social)](https://github.com/mmikaeleriksson/workTime/network)  | [Change cookies to localStorage](https://github.com/mmikaeleriksson/workTime/issues/32)  | JavaScript  |
 
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
