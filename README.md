@@ -28,7 +28,7 @@ Join the open source celebration and leave a mark on the open source world!
 | [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/TwitterSentimentAnalysis?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/TwitterSentimentAnalysis?style=social&logo=github)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/pulls)  |
 
 
-#### Welcome to the Open Source World! Please find the issues below:
+#### Welcome to the Open Source World! Please find the issues below: Type label:"good first issue" on github to search beginner friendly pull requests. Happy Contributing. :)
 
 > **Recommended issue for beginners: [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)**
 
