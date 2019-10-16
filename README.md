@@ -2,7 +2,7 @@
 
 # [HacktoberFest](https://hacktoberfest.digitalocean.com) 2019
 
-### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
+### It’s that time of year again when we come together to support and celebrate the open source technologies that we use and we love.
 
 Join the open source celebration and leave a mark on the open source world! 
 
