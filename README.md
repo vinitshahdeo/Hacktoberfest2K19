@@ -60,7 +60,7 @@ Join the open source celebration and leave a mark on the open source world!
 | [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [Add ESLint](https://github.com/vinitshahdeo/MiniYouTube/issues/1)  | React |
 | [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [[HacktoberFest] UI Improvements](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues/1)  | PHP |
 
-kiram to in zendegii
+kiram to in zendegi
 
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
