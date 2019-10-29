@@ -59,6 +59,7 @@ Join the open source celebration and leave a mark on the open source world!
 | [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [UI Improvements](https://github.com/vinitshahdeo/online-debate-system/issues/3)  | HTML, CSS, JS |
 | [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [Add ESLint](https://github.com/vinitshahdeo/MiniYouTube/issues/1)  | React |
 | [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [[HacktoberFest] UI Improvements](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues/1)  | PHP |
+| [neovim](https://github.com/neovim/neovim) | [Garbage typed when starting Neovim in Alacritty](https://github.com/neovim/neovim/issues/10131)  | C |
 
 
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
