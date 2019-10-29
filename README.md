@@ -91,6 +91,8 @@ I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)*
 if (isAwesome) {
     // thanks in advance :p
     starThisRepository();
+} else { 
+    starThisRepository();
 }
 
 ```
