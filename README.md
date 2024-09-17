@@ -61,11 +61,15 @@ Join the open source celebration and leave a mark on the open source world!
 | [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [[HacktoberFest] UI Improvements](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues/1)  | PHP |
 
 
+----
+
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
 
 [![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/7)
+
+-----
 
 ```js
 
